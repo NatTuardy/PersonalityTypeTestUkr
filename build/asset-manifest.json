@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PersonalityTypeTestUkr/static/css/main.fc431dfa.chunk.css",
+    "main.js": "/PersonalityTypeTestUkr/static/js/main.67cdce6b.chunk.js",
+    "main.js.map": "/PersonalityTypeTestUkr/static/js/main.67cdce6b.chunk.js.map",
+    "runtime-main.js": "/PersonalityTypeTestUkr/static/js/runtime-main.f534ba01.js",
+    "runtime-main.js.map": "/PersonalityTypeTestUkr/static/js/runtime-main.f534ba01.js.map",
+    "static/js/2.7babb916.chunk.js": "/PersonalityTypeTestUkr/static/js/2.7babb916.chunk.js",
+    "static/js/2.7babb916.chunk.js.map": "/PersonalityTypeTestUkr/static/js/2.7babb916.chunk.js.map",
+    "index.html": "/PersonalityTypeTestUkr/index.html",
+    "static/css/main.fc431dfa.chunk.css.map": "/PersonalityTypeTestUkr/static/css/main.fc431dfa.chunk.css.map",
+    "static/js/2.7babb916.chunk.js.LICENSE.txt": "/PersonalityTypeTestUkr/static/js/2.7babb916.chunk.js.LICENSE.txt",
+    "static/media/typePage.css": "/PersonalityTypeTestUkr/static/media/d2.8aeb45ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f534ba01.js",
+    "static/js/2.7babb916.chunk.js",
+    "static/css/main.fc431dfa.chunk.css",
+    "static/js/main.67cdce6b.chunk.js"
+  ]
+}

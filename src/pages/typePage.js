@@ -30,7 +30,7 @@ const TypePage = (n) => {
           <div className={`typeText ${typeLetter}1`}></div>
           <div className={`typeText ${typeLetter}2`}></div>
           <button className="double-border-button" onClick={handleClick}>
-            Вернуться назад
+            Повернутися назад
           </button>
         </div>
       )}

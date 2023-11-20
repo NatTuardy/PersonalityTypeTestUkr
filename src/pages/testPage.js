@@ -6,7 +6,7 @@ import './testPage.css';
 function testPage() {
   return (
     <div className='wrapper'>
-     <h1 className="title">Тест визначення особистості</h1>
+     <h1 className="title">Тест на визначення типології особистості</h1>
      
      
      <h3 className="answer">Виберіть слово, яке, на Вашу думку, найбільш точно характеризує Вас:</h3>
