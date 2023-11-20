@@ -1,0 +1,28 @@
+
+  export const answers = [
+    [ {key:"c",value: 'Стриманий'}, {key:"d", value: 'Сильний'}, {key: "s", value: 'Турботливий'}, {key:"i", value: 'Експресивний'}],
+    [ {key:"d",value: 'Першопрохідник'}, {key:"c", value: 'Правильний'}, {key: "i", value: 'Захоплюючийся'}, {key:"s", value: 'Зговірливий'}],
+    [ {key:"s",value: 'Старанний'}, {key:"i", value: 'Натхненний'}, {key: "d", value: 'Сміливий'}, {key:"c", value: 'Точний'}],
+    [ {key:"d",value: 'Сперечальник'}, {key:"c", value: 'Сумніваючийся'}, {key: "s", value: 'Нерішучий '}, {key:"i", value: 'Непередбачуваний '}],
+    [ {key:"c",value: 'Поважаючий '}, {key:"i", value: 'Товариський'}, {key: "s", value: 'Терплячий'}, {key:"d", value: 'Відважний'}],
+    [ {key:"i",value: 'Переконливий '}, {key:"d", value: 'Самовпевнений'}, {key: "c", value: 'Логічний'}, {key:"s", value: 'Мʼякий'}],
+    [ {key:"c",value: 'Обережний '}, {key:"s", value: 'Рівний'}, {key: "d", value: 'Рішучий'}, {key:"i", value: 'Компанійський'}],
+    [ {key:"i",value: 'Популярний '}, {key:"d", value: 'Напористий'}, {key: "c", value: 'Перфекціоніст'}, {key:"s", value: 'Щирий'}],
+    [ {key:"i",value: 'Яскравий '}, {key:"c", value: 'Скромний'}, {key: "s", value: 'Поступливий'}, {key:"d", value: 'Непохитний'}],
+    [ {key:"c",value: 'Педантичний '}, {key:"i", value: 'Оптимістичний'}, {key: "d", value: 'Наполегливий '}, {key:"s", value: 'Уживливий'}],
+    [ {key:"d",value: 'Непохитний '}, {key:"c", value: 'Смиренний'}, {key: "s", value: 'Гостинний '}, {key:"i", value: 'Балакучий'}],
+    [ {key:"s",value: 'Доброзичливий '}, {key:"c", value: 'Уважний'}, {key: "i", value: 'Грайливий '}, {key:"d", value: 'Вольовий'}],
+    [ {key:"i",value: 'Чарівний'}, {key:"d", value: 'Ризикуючий'}, {key: "c", value: 'Дисциплінований'}, {key:"s", value: 'Обачний'}],
+    [ {key:"c",value: 'Стриманий '}, {key:"s", value: 'Постійний'}, {key: "d", value: 'Напористий '}, {key:"i", value: 'Привабливий'}],
+    [ {key:"i",value: 'Захоплений '}, {key:"c", value: 'Аналітичний'}, {key: "s", value: 'Співчувальний'}, {key:"d", value: 'Рішучий'}],
+    [ {key:"d",value: 'Керівний '}, {key:"i", value: 'Імпульсивний'}, {key: "s", value: 'Неквапливий '}, {key:"c", value: 'Критичний'}],
+    [ {key:"c",value: 'Послідовний '}, {key:"d", value: 'Твердий'}, {key: "i", value: 'Живий'}, {key:"s", value: 'Інертний'}],
+    [ {key:"i",value: 'Впливовий '}, {key:"s", value: 'Добрий'}, {key: "d", value: 'Незалежний '}, {key:"c", value: 'Організований'}],
+    [ {key:"c",value: 'Ідеаліст '}, {key:"i", value: 'Популярний'}, {key: "s", value: 'Приємний '}, {key:"d", value: 'Прямолінійний'}],
+    [ {key:"d",value: 'Нетерплячий '}, {key:"c", value: 'Серйозний'}, {key: "s", value: 'Повільний '}, {key:"i", value: 'Емоційний'}],
+    [ {key:"d",value: 'Конкуруючий '}, {key:"i", value: 'Спонтанний'}, {key: "s", value: 'Відданий '}, {key:"c", value: 'Задумливий '}],
+    [ {key:"c",value: 'Самовідданий '}, {key:"s", value: 'Делікатний'}, {key: "i", value: 'Переконливий '}, {key:"d", value: 'Мужній'}],
+    [ {key:"s",value: 'Залежний '}, {key:"i", value: 'Легковажний'}, {key: "c", value: 'Витривалий '}, {key:"d", value: 'Подавяючий'}],
+    [ {key:"s",value: 'Толерантний '}, {key:"c", value: 'Ретельний'}, {key: "i", value: 'Надихаючий '}, {key:"d", value: 'Направляючий'}],
+   
+ ]
